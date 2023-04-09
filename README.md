@@ -1,4 +1,9 @@
 # Setup
+edited-imaguy0
+
+solved error-Failed to run sql query: must be member of role "supabase_admin"
+
+(you are free to edit this if there is a security error)
 
 ## 1. Create new project
 
